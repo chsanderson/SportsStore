@@ -1,0 +1,17 @@
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.deps.json
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.runtimeconfig.json
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.dll
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.Tests.pdb
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.dll
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.1\SportsStore.pdb
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojAssemblyReference.cache
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CopyComplete
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.dll
+C:\Users\ChSan\Desktop\New ASP.NET CORE Mvc Example\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.pdb
